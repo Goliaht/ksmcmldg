@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kasım</h1>
 <h3 align="left">A passionate backend developer from Turkey</h3>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Coder GIF" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksmcmldg&label=Profile%20views&color=0e75b6&style=flat" alt="ksmcmldg" /> </p>
 
