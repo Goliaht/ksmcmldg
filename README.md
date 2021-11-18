@@ -42,6 +42,9 @@
   <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
+          <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
+            alt="bootstrap studio" width="40" height="40" title="bootstrap studio"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" 
             alt="django" width="40" height="40" title="django"/> </a> 
